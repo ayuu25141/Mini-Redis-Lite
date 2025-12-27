@@ -1,0 +1,13 @@
+# Go build
+*.exe
+*.exe~
+*.out
+*.test
+
+# Binary persistence file
+data.bin
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
